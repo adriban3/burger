@@ -1,15 +1,15 @@
 require("./connection");
 
 var ORM = {
-    selectAll = function() {
+    selectAll: function() {
 
     },
 
-    insertOne = function() {
+    insertOne: function() {
 
     },
 
-    updateOne = function () {
+    updateOne: function () {
 
     }
 };
