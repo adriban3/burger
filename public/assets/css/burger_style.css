@@ -1,0 +1,49 @@
+html {
+    background-color: #DAA520;
+}
+
+body {
+    width: 75%;
+    margin: 0 auto;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: white;
+    padding: 20px;
+};
+
+.burgerAvailable {
+    background-color: #90EE90;
+    border-radius: 25px;
+    padding: 10px;
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+}; /*green*/
+
+.burgerEaten {
+    background-color: #FFB6C1;
+    border-radius: 25px;
+    padding: 10px;
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+}; /*red*/
+
+#name {
+    border: none;
+    background-color: white;
+    border-radius: 25px;
+}; /*input*/
+
+.addBurgerButton {
+    background-color: #DAA520;
+    border-radius: 25px;
+    padding: 10px;
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+}; /*input button*/
