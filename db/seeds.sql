@@ -3,5 +3,3 @@ INSERT INTO burgers (burger_name) VALUES
     ("turkey burger"),
     ("bison burger");
     
-    SELECT * FROM burgers;
-    
